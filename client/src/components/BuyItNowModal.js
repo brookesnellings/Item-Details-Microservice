@@ -6,8 +6,7 @@ class BuyItNowModal extends React.Component {
     super(props);
 
     this.state = {
-      selected: '',
-      iconsLoaded: false
+      selected: ''
     };
 
     this.handleChange = this.handleChange.bind(this);
