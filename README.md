@@ -41,6 +41,8 @@ Our team's microservices communicated via Broadcast Channel API and were stitche
 
 ![](ScreenShot2.png)
 
+![](fec.gif)
+
 ## Usage
 
 > Some usage instructions:
